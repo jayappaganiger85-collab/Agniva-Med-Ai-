@@ -1,0 +1,6 @@
+{
+  "name": "AGNIVA MED AI",
+  "description": "Smart AI Medical Prescription Reader supporting Kannada, English, and Hindi with high-accuracy medication extraction and dosage analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
